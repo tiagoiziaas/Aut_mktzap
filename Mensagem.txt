@@ -1,0 +1,10 @@
+Olá {NOME}!
+Tudo bem?
+
+Prazer, meu nome é Marina e sou recrutadora aqui na Genter.
+
+Vi que se candidatou a nossa vaga de {NOME DA VAGA}, teria interesse de participar do nosso processo seletivo?
+
+Se sim, me confirma por gentileza seu nome completo para que possamos bater um papo sobre a oportunidade.
+
+Aguardo seu retorno! :)
